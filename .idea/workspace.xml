@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085b5db9-019e-4054-a23a-61bdbccc1649" name="Default Changelist" comment="add, travis.yml">
+    <list default="true" id="085b5db9-019e-4054-a23a-61bdbccc1649" name="Default Changelist" comment="update travis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587303800165</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update travis">
+      <created>1587307546071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587307546072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add, travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, travis.yml" />
+    <MESSAGE value="update travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="update travis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1587307531079">
