@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085b5db9-019e-4054-a23a-61bdbccc1649" name="Default Changelist" comment="add, travis.yml" />
+    <list default="true" id="085b5db9-019e-4054-a23a-61bdbccc1649" name="Default Changelist" comment="add, travis.yml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,5 +81,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add, travis.yml" />
     <option name="LAST_COMMIT_MESSAGE" value="add, travis.yml" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1587307531079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587307531079" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587307480141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587307480141" />
+    <state x="356" y="152" key="git4idea.merge.GitPullDialog" timestamp="1587303890478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1587303890478" />
   </component>
 </project>
